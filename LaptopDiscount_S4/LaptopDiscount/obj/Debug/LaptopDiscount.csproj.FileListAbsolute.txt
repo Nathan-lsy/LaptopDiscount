@@ -5,3 +5,10 @@ C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount
 C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
 C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.exe
 C:\Users\Rob\source\repos\LaptopDiscount\LaptopDiscount\obj\Debug\LaptopDiscount.pdb
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\bin\Debug\LaptopDiscount.exe.config
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\bin\Debug\LaptopDiscount.exe
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\bin\Debug\LaptopDiscount.pdb
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.AssemblyReference.cache
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.exe
+C:\Users\15562\Desktop\LaptopDiscount_S4\LaptopDiscount_S4\LaptopDiscount\obj\Debug\LaptopDiscount.pdb

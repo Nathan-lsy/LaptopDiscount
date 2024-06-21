@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rob\\OneDrive - Conestoga College\\Conestoga Shared\\PROG8170\\Exams\\Spring 24\\Midterm\\LaptopDiscount\\",
+  "WorkspaceRootPath": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|c:\\users\\rob\\onedrive - conestoga college\\conestoga shared\\prog8170\\exams\\spring 24\\midterm\\laptopdiscount\\laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3BC8945-63FA-4079-AA04-F3C829FBD839}|LaptopDiscountTest\\LaptopDiscountTest.csproj|c:\\users\\15562\\desktop\\laptopdiscount_s4\\laptopdiscount_s4\\laptopdiscounttest\\discounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BC8945-63FA-4079-AA04-F3C829FBD839}|LaptopDiscountTest\\LaptopDiscountTest.csproj|solutionrelative:laptopdiscounttest\\discounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|c:\\users\\15562\\desktop\\laptopdiscount_s4\\laptopdiscount_s4\\laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|C:\\Users\\Rob\\OneDrive - Conestoga College\\Conestoga Shared\\PROG8170\\Exams\\Spring 24\\Midterm\\LaptopDiscount\\laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1269E22-422F-4304-A75D-CBA68D997846}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DiscountTest.cs",
+              "DocumentMoniker": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\LaptopDiscountTest\\DiscountTest.cs",
+              "RelativeDocumentMoniker": "LaptopDiscountTest\\DiscountTest.cs",
+              "ToolTip": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\LaptopDiscountTest\\DiscountTest.cs",
+              "RelativeToolTip": "LaptopDiscountTest\\DiscountTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:40:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Discount.cs",
-              "DocumentMoniker": "C:\\Users\\Rob\\OneDrive - Conestoga College\\Conestoga Shared\\PROG8170\\Exams\\Spring 24\\Midterm\\LaptopDiscount\\LaptopDiscount\\Discount.cs",
+              "DocumentMoniker": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\LaptopDiscount\\Discount.cs",
               "RelativeDocumentMoniker": "LaptopDiscount\\Discount.cs",
-              "ToolTip": "C:\\Users\\Rob\\OneDrive - Conestoga College\\Conestoga Shared\\PROG8170\\Exams\\Spring 24\\Midterm\\LaptopDiscount\\LaptopDiscount\\Discount.cs",
+              "ToolTip": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\LaptopDiscount\\Discount.cs",
               "RelativeToolTip": "LaptopDiscount\\Discount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T18:01:58.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rob\\OneDrive - Conestoga College\\Conestoga Shared\\PROG8170\\Exams\\Spring 24\\Midterm\\LaptopDiscount\\LaptopDiscount\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\LaptopDiscount\\Program.cs",
               "RelativeDocumentMoniker": "LaptopDiscount\\Program.cs",
-              "ToolTip": "C:\\Users\\Rob\\OneDrive - Conestoga College\\Conestoga Shared\\PROG8170\\Exams\\Spring 24\\Midterm\\LaptopDiscount\\LaptopDiscount\\Program.cs",
+              "ToolTip": "C:\\Users\\15562\\Desktop\\LaptopDiscount_S4\\LaptopDiscount_S4\\LaptopDiscount\\Program.cs",
               "RelativeToolTip": "LaptopDiscount\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:00:52.237Z"
+              "WhenOpened": "2024-06-12T18:00:52.237Z",
+              "EditorCaption": ""
             }
           ]
         }
